@@ -4,7 +4,7 @@
 
 *Die Kröte ist klein*
 
-[Website von Digitec](ww.digitec.ch)
+[Website von Digitec](https://www.digitec.ch/)
 
 [Website von Amazon](https://www.amazon.de/)
 

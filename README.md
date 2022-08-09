@@ -4,7 +4,9 @@
 
 *Die Kröte ist klein*
 
-[Klick](ww.digitec.ch)
+[Website von Digitec](ww.digitec.ch)
+
+[Website von Amazon](www.amazon.de)
 
 ![Iron Man](https://is4-ssl.mzstatic.com/image/thumb/aIvtSHOcgUL4ym2l6eQHPQ/1200x675mf.jpg)
 

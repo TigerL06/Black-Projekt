@@ -20,10 +20,9 @@ namespace HelloWorld
 }
 ```
 
-| Header1 | Header2 | Header3 |
-| --- | --- | --- |
 | Liegestütze | Liegestütze | Zeit |
+| --- | --- | --- |
 | liam | Daniel | Zeit |
 | 10 | 20 | 10min. |
-
+| 20 | 40 | 20min. |
 

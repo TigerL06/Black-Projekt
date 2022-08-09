@@ -22,7 +22,7 @@ namespace HelloWorld
 
 | Liegestütze | Liegestütze | Zeit |
 | --- | --- | --- |
-| liam | Daniel | Zeit |
+| liam | Daniel | Minuten |
 | 10 | 20 | 10min. |
 | 20 | 40 | 20min. |
-
+| 30 | 50 | 30min. |
